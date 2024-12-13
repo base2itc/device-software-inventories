@@ -1,0 +1,1 @@
+# device-software-inventories
